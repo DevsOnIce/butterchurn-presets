@@ -57,6 +57,7 @@ presets["Idiot - Star Of Annon"] = require("../presets/converted/Idiot - Star Of
 presets["Krash + Illusion - Spiral Movement"] = require("../presets/converted/Krash + Illusion - Spiral Movement.json");
 presets["martin + flexi - diamond cutter [prismaticvortex.com] - camille - i wish i wish i wish i was constrained"] = require("../presets/converted/martin + flexi - diamond cutter [prismaticvortex.com] - camille - i wish i wish i wish i was constrained.json");
 presets["Martin - acid wiring"] = require("../presets/converted/Martin - acid wiring.json");
+presets["martin - attack of the beast"] = require("../presets/converted/martin - attack of the beast.json");
 presets["martin - angel flight"] = require("../presets/converted/martin - angel flight.json");
 presets["martin - another kind of groove"] = require("../presets/converted/martin - another kind of groove.json");
 presets["martin - bombyx mori"] = require("../presets/converted/martin - bombyx mori.json");
